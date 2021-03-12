@@ -1,0 +1,35 @@
+/*Define your CSS here*/
+
+ .image {
+  flex: 33.33%;
+  padding: 4px;
+
+}
+
+.image2 {
+  flex: 33.33%;
+  padding: 4px;
+  padding-top:4px;
+  overflow-y: hidden;
+
+ }
+
+.images {
+  display: flex;
+  padding-left: 20px;
+  padding-right:20px;
+  padding-bottom:0px;
+}
+
+#bio {
+font-family: Lora;
+font-size: 35px;
+text-align:center;
+
+
+
+}
+
+.clear {
+opacity:70%;
+
